@@ -20,3 +20,8 @@ def printer(attendees)
     puts assignment
   end
 end
+
+
+attendees = ["me","you","puppy"]
+
+printer(attendees)
